@@ -5,3 +5,5 @@ github is owned by microsoft
 hello
 amazon introduced latest version of s3 bucket
 and devops ansible tool very popular among all tools
+jenkins and chef are the latest tools of devops
+cloudformation and cloudwatch are the important services in aws
